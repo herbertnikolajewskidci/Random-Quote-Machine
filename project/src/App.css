@@ -1,0 +1,12 @@
+#quote-box {
+    width: 90vw;
+    max-width: 35rem;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    gap: 1rem;
+}
